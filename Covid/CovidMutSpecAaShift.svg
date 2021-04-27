@@ -5082,6 +5082,13 @@
        y1="43.16481"
        x2="167.26967"
        y2="42.324558" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath29-0-4-3">
+      <path
+         d="m 620.6545,130.53766 h 62.46587 V 258.35244 H 620.6545 Z"
+         id="path5457-7-6" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -5122,6 +5129,30 @@
      inkscape:label="Слой 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <g
+       clip-path="url(#clipEmfPath29-0-4-3)"
+       id="g6203-8-7"
+       transform="matrix(0.26458333,0,0,0.26458333,-49.512505,123.94322)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:26.75px;line-height:125%;font-family:Cambria;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(629.78413,204.05518)"
+         x="0"
+         y="0"
+         id="text6201-1-5"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan6199-9-3"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:700;font-size:26.75px;font-family:Cambria;fill:#000000"
+             id="tspan6195-9-5">Arg</tspan><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:700;font-size:26.75px;font-family:Cambria;fill:#000000"
+             id="tspan6197-7-6"> </tspan></tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:700;font-size:8.32734px;line-height:125%;font-family:Cambria;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.346972"
@@ -8065,30 +8096,6 @@
              dy="0"
              style="font-style:normal;font-variant:normal;font-weight:400;font-size:26.75px;font-family:Cambria;fill:#000000"
              id="tspan6893-9"> </tspan></tspan></text>
-    </g>
-    <g
-       clip-path="url(#clipEmfPath61-9-8)"
-       id="g6909-9"
-       transform="matrix(0.26458333,0,0,0.26458333,-50.557955,83.472293)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:700;font-size:24px;line-height:125%;font-family:Cambria;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         transform="translate(627.06126,364.54442)"
-         x="0"
-         y="0"
-         id="text6907-6"><tspan
-           sodipodi:role="line"
-           x="0"
-           y="0"
-           id="tspan6905-0"><tspan
-             dx="0"
-             dy="0"
-             style="font-style:normal;font-variant:normal;font-weight:700;font-size:24px;font-family:Cambria;fill:#000000"
-             id="tspan6901-6">Stop</tspan><tspan
-             dx="0"
-             dy="0"
-             style="font-style:normal;font-variant:normal;font-weight:700;font-size:26.75px;font-family:Cambria;fill:#000000"
-             id="tspan6903-4"> </tspan></tspan></text>
     </g>
     <g
        clip-path="url(#clipEmfPath62-0-2)"
